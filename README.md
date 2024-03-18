@@ -1,7 +1,7 @@
 # COMP3005A3Q1
 Rayhan Moraldo 101229564
 
-**URGENT NOTE -- The addStudent() function takes an SQL.Date type, so if you are testing and want to enter a new student, make sure to use Date.valueOf("YYYY-MM-DD").
+**URGENT NOTE -- The addStudent() function takes an SQL.Date type, so if you are testing and want to enter a new student, make sure to use Date.valueOf("YYYY-MM-DD") for the date parameter.
 
 Steps to run after installing everything
 -Open A3Q1-RayhanMoraldo/sql in pg admin and run the query
