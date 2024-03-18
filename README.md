@@ -9,4 +9,6 @@ Steps to run after installing everything
 -In the main function you can test all the functions. 
 -By default it adds me to it, changes my email, and deletes me from the database
 
+--Or you could just copy an paste the sql file and the main.java file onto your pgadmin and intelliJ ;)
+
 Note*** intelliJ and pg admin were both set up following the course guidelines (i.e using Maven)
