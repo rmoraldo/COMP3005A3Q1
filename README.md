@@ -8,3 +8,5 @@ Steps to run after installing everything
 -By this point, the database should already be running so open the A3Q1-RayhanMoraldo folder in intelliJ and go to main
 -In the main function you can test all the functions. 
 -By default it adds me to it, changes my email, and deletes me from the database
+
+Note*** intelliJ and pg admin were both set up following the course guidelines (i.e using Maven)
